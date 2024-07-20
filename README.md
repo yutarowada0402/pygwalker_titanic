@@ -1,0 +1,1 @@
+streamlitとpygwalkerを用いてtitanicデータセットをBIツールライクに分析できるアプリケーションのテスト
