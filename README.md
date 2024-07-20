@@ -1,1 +1,4 @@
 streamlitとpygwalkerを用いてtitanicデータセットをBIツールライクに分析できるアプリケーションのテスト
+
+<アプリのリンク>
+https://pygwalkertitanic-ezrknewq5nue7fjawqohzy.streamlit.app/
